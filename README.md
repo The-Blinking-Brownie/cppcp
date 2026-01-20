@@ -1,6 +1,7 @@
-#  Competitive Programming C+0
+#  Competitive Programming C++
 
 This repository contains my solutions to various competitive programming problems from Codeforces and others, as well as other items which I use for my environment.  
+Solutions are posted for educational purposes. Please do not submit them without modification as it does not help anyone.
 
 ### Prerequisites
 - A Linux distro  
